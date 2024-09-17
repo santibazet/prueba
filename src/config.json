@@ -1,0 +1,6 @@
+{
+  "serverName": "Server1",
+  "puerto": 3000,
+  "usuario": "john@example.com",
+  "password": "contra1"	
+}
